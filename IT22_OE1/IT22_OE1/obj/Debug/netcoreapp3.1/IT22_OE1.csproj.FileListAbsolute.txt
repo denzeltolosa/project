@@ -1,0 +1,13 @@
+C:\Users\HP\Documents\Visual Studio 2019\Projects\IT22_OE1\IT22_OE1\bin\Debug\netcoreapp3.1\IT22_OE1.exe
+C:\Users\HP\Documents\Visual Studio 2019\Projects\IT22_OE1\IT22_OE1\bin\Debug\netcoreapp3.1\IT22_OE1.deps.json
+C:\Users\HP\Documents\Visual Studio 2019\Projects\IT22_OE1\IT22_OE1\bin\Debug\netcoreapp3.1\IT22_OE1.runtimeconfig.json
+C:\Users\HP\Documents\Visual Studio 2019\Projects\IT22_OE1\IT22_OE1\bin\Debug\netcoreapp3.1\IT22_OE1.runtimeconfig.dev.json
+C:\Users\HP\Documents\Visual Studio 2019\Projects\IT22_OE1\IT22_OE1\bin\Debug\netcoreapp3.1\IT22_OE1.dll
+C:\Users\HP\Documents\Visual Studio 2019\Projects\IT22_OE1\IT22_OE1\bin\Debug\netcoreapp3.1\IT22_OE1.pdb
+C:\Users\HP\Documents\Visual Studio 2019\Projects\IT22_OE1\IT22_OE1\obj\Debug\netcoreapp3.1\IT22_OE1.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2019\Projects\IT22_OE1\IT22_OE1\obj\Debug\netcoreapp3.1\IT22_OE1.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Visual Studio 2019\Projects\IT22_OE1\IT22_OE1\obj\Debug\netcoreapp3.1\IT22_OE1.AssemblyInfo.cs
+C:\Users\HP\Documents\Visual Studio 2019\Projects\IT22_OE1\IT22_OE1\obj\Debug\netcoreapp3.1\IT22_OE1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Visual Studio 2019\Projects\IT22_OE1\IT22_OE1\obj\Debug\netcoreapp3.1\IT22_OE1.dll
+C:\Users\HP\Documents\Visual Studio 2019\Projects\IT22_OE1\IT22_OE1\obj\Debug\netcoreapp3.1\IT22_OE1.pdb
+C:\Users\HP\Documents\Visual Studio 2019\Projects\IT22_OE1\IT22_OE1\obj\Debug\netcoreapp3.1\IT22_OE1.genruntimeconfig.cache

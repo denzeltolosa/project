@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<Students>
+  <Student>
+    <StudentNo>121212</StudentNo>
+    <FirstName>Denzel Joseph</FirstName>
+    <LastName>Tolosa</LastName>
+    <Gender>Male</Gender>
+    <Course>BSIT</Course>
+    <ContactNo>449494</ContactNo>
+  </Student>
+  <Student>
+    <StudentNo>1290192012</StudentNo>
+    <FirstName>Junell</FirstName>
+    <LastName>Roxas</LastName>
+    <Gender>Male</Gender>
+    <Course>BSIT</Course>
+    <ContactNo>1485475</ContactNo>
+  </Student>
+  <Student>
+    <StudentNo>1223123</StudentNo>
+    <FirstName>Joshua</FirstName>
+    <LastName>Molino</LastName>
+    <Gender>Male</Gender>
+    <Course>BSIT</Course>
+    <ContactNo>48848</ContactNo>
+  </Student>
+  <Student>
+    <StudentNo>13423433</StudentNo>
+    <FirstName>Jan Myrone</FirstName>
+    <LastName>Alano</LastName>
+    <Gender>Male</Gender>
+    <Course>BSIT</Course>
+    <ContactNo>47878748</ContactNo>
+  </Student>
+  <Student>
+    <StudentNo>453343</StudentNo>
+    <FirstName>Jan Dale</FirstName>
+    <LastName>Alano</LastName>
+    <Gender>Male</Gender>
+    <Course>BSIT</Course>
+    <ContactNo>789456123</ContactNo>
+  </Student>
+  <Student>
+    <StudentNo>13323234</StudentNo>
+    <FirstName>Bry</FirstName>
+    <LastName>Basco</LastName>
+    <Gender>Male</Gender>
+    <Course>BSIT</Course>
+    <ContactNo>7454948248554</ContactNo>
+  </Student>
+  <Student>
+    <StudentNo>233433422</StudentNo>
+    <FirstName>John Paul</FirstName>
+    <LastName>De Juras</LastName>
+    <Gender>Male</Gender>
+    <Course>BSIT</Course>
+    <ContactNo>4865786</ContactNo>
+  </Student>
+</Students>
